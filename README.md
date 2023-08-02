@@ -1,2 +1,2 @@
 # Super-Over
-Static Super-Over website
+Fully functional Super-Over website with JavaScript DOM
